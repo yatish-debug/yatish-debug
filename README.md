@@ -145,17 +145,3 @@
 > <sup style="color:#FF2E2E">This profile uses red‑team aesthetics for portfolio purposes only. All offensive techniques referenced are for research, defense and education. Misuse is illegal and unethical.</sup>
 
 ---
-
-### ✦ Want further customizations?
-I already integrated:
-1. **Matrix rain GIF header** (example link included) — replaceable.  
-2. **Blinking cursor SVG panel** — inline SVG that will animate on GitHub.  
-3. **Cyberpunk ASCII badges** — added as ASCII + neon badges/shields.  
-4. **Dynamic typing SVGs** — multiple typing animations for header & projects.
-
-If you want I can now:
-- Replace the matrix GIF with a custom one I design (I’ll provide the GIF URL).  
-- Create a custom **SVG terminal with multi-line animated output** (more complex but fully inline).  
-- Generate **custom cyberpunk badge images** and host them — I’ll provide final URLs to paste.
-
-Just say **“Make custom GIF”** or **“Make custom SVG terminal”** and I’ll produce the asset and the final README with those URLs swapped in.
