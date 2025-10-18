@@ -1,5 +1,5 @@
 <!-- ============================================
-     RED TEAM / BACKHAT — SUPER ANIMATED README
+     RED TEAM / BLACKHAT — SUPER ANIMATED README
      Includes: Matrix Rain GIF, Blinking SVG terminals,
      Cyberpunk ASCII badges, Dynamic typing SVGs
    ============================================ -->
