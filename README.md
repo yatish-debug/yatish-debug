@@ -99,23 +99,9 @@
 ## 🎛 Live Entry Panel — Blinking Terminal (INLINE SVG)
 <!-- Inline animated SVG terminal — GitHub supports simple SMIL animations like <animate> -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160" role="img" aria-label="Live terminal">
-    <rect width="760" height="160" fill="#050505" rx="8"/>
-    <g font-family="Fira Code, monospace" font-size="16" fill="#FF5555">
-      <text x="18" y="32">&gt; CONNECTING_TO_TARGET...</text>
-      <text x="18" y="56" fill="#FF3333">&gt; ENUMERATING_SERVICES
-        <animate attributeName="opacity" values="0;1;0;1" dur="2s" repeatCount="indefinite"/>
-      </text>
-      <text x="18" y="80" fill="#FF4444">&gt; SCANNING PORTS: 22, 80, 443</text>
-      <text x="18" y="104" fill="#FF6666">&gt; RECON_SCORE: 67%</text>
-      <text x="18" y="128" fill="#FF2222">&gt; LAUNCHING_PAYLOADS...</text>
-    </g>
-    <!-- blinking cursor -->
-    <rect x="320" y="16" width="10" height="18" fill="#FF5555">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="./assets/terminal_live.gif" alt="terminal-live" width="760"/>
 </p>
+
 
 > (This is decorative — the README does not scan or connect to anything.)
 
