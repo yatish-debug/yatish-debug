@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160">
+  <rect width="760" height="160" fill="#050505" rx="8"/>
+  <g font-family="Fira Code, monospace" font-size="14" fill="#FF6B6B">
+    <text x="18" y="32">&gt; CONNECTING_TO_TARGET...</text>
+    <text x="18" y="56" fill="#FF3B3B">
+      &gt; ENUMERATING_SERVICES...
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="18" y="80" fill="#FF4D4D">&gt; SCANNING PORTS: 22, 80, 443</text>
+    <text x="18" y="104" fill="#FF8A8A">&gt; RECON_SCORE: 67%</text>
+    <text x="18" y="128" fill="#FF5A5A">&gt; LAUNCHING_PAYLOADS...</text>
+  </g>
+  <!-- blinking cursor -->
+  <rect x="320" y="16" width="10" height="18" fill="#FF6B6B">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
