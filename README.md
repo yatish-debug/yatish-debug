@@ -45,7 +45,7 @@
 ---
 
 ## 🕶️ Operator Snapshot
-- **Name:** Yatish Bharambe  
+- **Name:** Yatish Hemant Bharambe  
 - **Handle:** `yatish-debug` / `Yatish_Cyber`  
 - **Role:** Red Team / Offensive Security | Malware Analysis | OSINT | CTF  
 - **Status:** Live — Offensive simulations, blue team mitigations & forensic research
