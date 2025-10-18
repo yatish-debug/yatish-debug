@@ -1,6 +1,6 @@
 <!-- ============================================
      RED TEAM / BLACKHAT — SUPER ANIMATED README
-     Includes: Matrix Rain GIF, Blinking SVG terminals,
+     Includes: Matrix Rain GIF, Blinking SVG terminal,
      Cyberpunk ASCII badges, Dynamic typing SVGs
    ============================================ -->
 
@@ -15,15 +15,6 @@
 <p align="center">
   <img src="./assets/cyber_badge.png" alt="badge" width="420"/>
 </p>
-
-<p align="center">
-  <img src="./assets/terminal_panel.svg" alt="terminal-panel" width="760"/>
-</p>
-
-
-<h1 align="center">
-  <code style="color:#FF2E2E">»» RED NODE: YATISH BHARAMBE</code>
-</h1>
 
 <!-- ASCII cyberpunk badge -->
 <pre align="center" style="color:#FF4D4D; font-size:10px; line-height:10px;">
@@ -105,14 +96,22 @@
 
 ---
 
-## 🎛 Live Entry Panel — Blinking Terminal (SVG)
-<!-- Inline blinking-cursor SVG terminal. GitHub renders simple SVGs -->
+## 🎛 Live Entry Panel — Blinking Terminal (INLINE SVG)
+<!-- Inline animated SVG terminal — GitHub supports simple SMIL animations like <animate> -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="80" viewBox="0 0 760 80" style="background:#0B0B0B; border-radius:6px;">
-    <rect width="760" height="80" fill="#0B0B0B" rx="6" />
-    <text x="18" y="36" font-family="Fira Code, monospace" font-size="18" fill="#FF5A5A">&gt; CONNECTING_TO_TARGET...</text>
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160" role="img" aria-label="Live terminal">
+    <rect width="760" height="160" fill="#050505" rx="8"/>
+    <g font-family="Fira Code, monospace" font-size="16" fill="#FF5555">
+      <text x="18" y="32">&gt; CONNECTING_TO_TARGET...</text>
+      <text x="18" y="56" fill="#FF3333">&gt; ENUMERATING_SERVICES
+        <animate attributeName="opacity" values="0;1;0;1" dur="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="18" y="80" fill="#FF4444">&gt; SCANNING PORTS: 22, 80, 443</text>
+      <text x="18" y="104" fill="#FF6666">&gt; RECON_SCORE: 67%</text>
+      <text x="18" y="128" fill="#FF2222">&gt; LAUNCHING_PAYLOADS...</text>
+    </g>
     <!-- blinking cursor -->
-    <rect id="cursor" x="300" y="18" width="8" height="18" fill="#FF5A5A">
+    <rect x="320" y="16" width="10" height="18" fill="#FF5555">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
     </rect>
   </svg>
