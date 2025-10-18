@@ -5,9 +5,21 @@
    ============================================ -->
 
 <p align="center">
-  <!-- Matrix Rain Header (replace the URL with your own hosted GIF if you prefer) -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="matrix-rain" width="100%" style="max-height:220px; object-fit:cover; filter:contrast(1.1) saturate(1.2)"/>
+  <img src="./assets/matrix_header.gif" alt="matrix-rain" width="100%" style="max-height:220px; object-fit:cover; filter:contrast(1.1) saturate(1.2)"/>
 </p>
+
+<h1 align="center">
+  <code style="color:#FF2E2E">»» RED NODE: YATISH BHARAMBE</code>
+</h1>
+
+<p align="center">
+  <img src="./assets/cyber_badge.png" alt="badge" width="420"/>
+</p>
+
+<p align="center">
+  <img src="./assets/terminal_panel.svg" alt="terminal-panel" width="760"/>
+</p>
+
 
 <h1 align="center">
   <code style="color:#FF2E2E">»» RED NODE: YATISH BHARAMBE</code>
