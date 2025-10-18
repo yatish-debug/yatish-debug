@@ -1,137 +1,128 @@
-<h2 align="center">
-  Hello World! 👋  
-  I'm <span style="color:#007acc"><strong>Yatish Bharambe</strong></span>
-</h2>
+<!-- ===========================
+     RED TEAM / RED-HAT PROFILE
+     Danger aesthetic | Ethical note included
+   =========================== -->
+
+<h1 align="center">
+  <code style="color:#FF2E2E">»» RED NODE: YATISH BHARAMBE</code>
+</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=450&lines=Cybersecurity+Engineer+%7C+Ethical+Hacker;DSA+Lover+%7C+C%2B%2B+%7C+Java+Ninja;Cyber+Forensics+%7C+Network+Defense;Bug+Bounty+%7C+Malware+Analysis;Always+Learning+%7C+Always+Defending+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=760&lines=%3E_%20INITIALIZING...;RED%20TEAM%20OPERATOR%20%7C%20CYBER%20RECON;PAYLOAD%20%7C%20MALWARE%20ANALYSIS%20%7C%20EXPLOIT%20HUNTER;AUTH%3A%20ETHICAL%20%26%20AUTHORIZED" alt="typing" />
 </div>
-
----
 
 <p align="center">
-  <strong>🔐 Cybersecurity Researcher | 🛡️ Ethical Programmer | 🎓 First-Year Engineering Student</strong><br>
-  Passionate about securing the digital frontier. I specialize in <strong>Network Security, Web Pentesting, Malware Analysis, DSA, and OSINT</strong>.  
-  Currently contributing to real-world cybersecurity projects & improving resilience through Red/Blue Teaming methodologies.
-</p>
-
-<p align="center"> Engineering
-  <img src="https://komarev.com/ghpvc/?username=yatishbharambe&label=Profile%20Views&color=0e75b6&style=flat" alt="yatishbharambe" /> 
-</p>
-
----
-
-## 🧠 Skills & Arsenal
-<p align="left">
-
-### 🛠️ Offensive & Defensive Tools
-<img src="https://img.shields.io/badge/Tools-Burp%20Suite%20Pro|Nmap|Metasploit|Wireshark|Frida-lightgrey" />
-<img src="https://img.shields.io/badge/Frameworks-OWASP%20Top%2010|MITRE%20ATT%26CK-red" />
-<img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra|x64dbg|Radare2-blue" />
-<img src="https://img.shields.io/badge/OSINT-Photon|theHarvester|Sherlock|Holehe-brightgreen" />
-
-### 💻 Languages & Dev
-<img src="https://img.shields.io/badge/Programming-C%2B%2B|Java|Python-important" />
-<img src="https://img.shields.io/badge/Scripting-Bash|PowerShell|Batch-blueviolet" />
-<img src="https://img.shields.io/badge/Backend-Flask|Node.js|Firebase-yellow" />
-
-### 🧰 Platforms & Infra
-<img src="https://img.shields.io/badge/OS-ParrotOS|Kali|Ubuntu|Windows-blue" />
-<img src="https://img.shields.io/badge/Networking-Firewalls|IDS%2FIPS|VPN|Proxy%20Chains-lightgrey" />
-<img src="https://img.shields.io/badge/Cloud-GCP|AWS%20Basics|Docker-green" />
-
-### 📚 DSA & Problem Solving
-<img src="https://img.shields.io/badge/Practice-LeetCode|Codeforces|GFG|Striver%20Sheet-orange" />
-<img src="https://img.shields.io/badge/Language-C%2B%2B%20(Primary)-informational" />
-
-</p>
-
----
-
-## 🏆 Projects & Research
-
-### 🛡️ Cybersecurity Projects
-- **Yshield – Personal Firewall**  
-  Advanced firewall with GUI dashboard, port scan detection, GeoIP blocking, real-time logs, and alerting system.
-
-- **Social Media Privacy Analyzer**  
-  OSINT tool that detects and reports privacy leakages from public profiles with structured risk scoring.
-
-- **Blockchain Honeypot Node**  
-  Custom honeypot setup for blockchain networks, used for studying attacker behavior and exploit chains.
-
-- **Command-Line OSINT Tracker**  
-  Lightweight CLI tool for IP, domain, username, and email reconnaissance — built for speed and flexibility.
-
-- **Frida Hooking Toolkit**  
-  Android dynamic instrumentation scripts using Frida to analyze app internals and runtime behavior.
-
-- **DDoS Protection App**  
-  Application that identifies abnormal traffic patterns and mitigates DDoS attacks using rate limiting and blocking.
-
----
-
-### 💻 Development Projects
-- **FitFusion – Fitness App Concept**  
-  Concept UI/UX app for personal fitness tracking, workout planning, and daily routine management.
-
-- **Netflix Working Clone**  
-  Responsive Netflix UI clone with Firebase Auth, movie thumbnails, and real-time data integration.
-
-- **Spotify Working Clone**  
-  React-based music streaming clone with playlist handling, audio controls, and artist pages.
-
-- **QR Code Generator**  
-  Simple app to convert any URL or text input into a downloadable QR code using Python or JavaScript.
-
-- **Snake Game in Python**  
-  Classic snake game using `pygame` demonstrating core game logic and collision detection.
-
-- **Weather Application**  
-  Weather info app using OpenWeatherMap API with geolocation, current weather, and forecasts.
-
-- **Cinema Review App**  
-  Full-stack movie review system using MERN stack where users can rate and review movies.
-
----
-
-## 📌 Highlights
-- 👨‍💻 Intern @ Cybersecurity R&D Projects  
-- 🐞 Active Bug Bounty Hunter  
-- 💬 Speaker at Cyber Awareness Programs  
-- 💻 Contributor to Open Source Security Tools  
-- 📊 Researcher in Indian Cyber Forensics & Ransomware Case Studies  
-- 🎓 Pursuing B.Tech in Computer Engineering
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yatish-bharambe-050197330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto: yatishbharambe@gfgcoe.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/Yatish_Cyber">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/yatish-debug">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <strong style="color:#FF4D4D">Danger aesthetic • Offensive mindset • Defensive responsibility</strong><br/>
+  <em>Red Team operator & cybersecurity researcher — practicing adversarial thinking to build stronger defenses.</em>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatish-debug&show_icons=true&theme=radical" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-debug&theme=radical" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatish-debug&theme=radical" width="800"/>
-</div>
-  ---
 
-### ⚡ *"Hack to Learn, but Never Hack to Harm."*  
-### 🙌 Thanks for visiting my profile!
+**⚠️ AUTHORIZED USE ONLY — All activities listed are performed with consent or in simulated/test environments. Misuse is unlawful.**
+
+</div>
+
+---
+
+## 🖤 Operator Snapshot
+- **Name:** Yatish Bharambe  
+- **Handle:** `yatish-debug` / `Yatish_Cyber`  
+- **Role:** Red Team / Offensive Security Researcher | Malware Analysis | OSINT | CTF Player  
+- **Status:** Active — Building offensive tooling, blue team mitigations & forensic playbooks.
+
+---
+
+## 🩸 Red Arsenal (Skills & Tools)
+
+<p align="left">
+<img alt="badge" src="https://img.shields.io/badge/Focus-RED_TEAM-red?style=for-the-badge&logo=hackthebox"/>
+<img alt="badge" src="https://img.shields.io/badge/Scope-Offense%20%7C%20Defense-black?style=for-the-badge"/>
+<img alt="badge" src="https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B%20%7C%20Bash-darkred?style=for-the-badge"/>
+<img alt="badge" src="https://img.shields.io/badge/Tools-Nmap%20%7C%20Burp%20%7C%20Metasploit%20%7C%20Frida-red?style=for-the-badge"/>
+<img alt="badge" src="https://img.shields.io/badge/RE-Ghidra%20%7C%20x64dbg-blue?style=for-the-badge"/>
+<img alt="badge" src="https://img.shields.io/badge/Cloud-Docker%20%7C%20GCP%20%7C%20AWS-darkgrey?style=for-the-badge"/>
+</p>
+
+> **Mindset:** Threat modeling → custom tooling → simulated exploit chains → forensic capture → remediation.
+
+---
+
+## 🔥 Mission Modules (Projects & Tooling)
+- **Yshield — Personal Red/Blue Firewall**  
+  Custom firewall prototype (GUI) with deception rules, geo‑blocking, layered detection & forensic logging.
+
+- **Blockchain Honeypot Node (Research)**  
+  Honey nodes for chain reconnaissance — capture attacker behavior and payload IOCs.
+
+- **Frida Hooking Toolkit**  
+  Dynamic runtime probes for Android apps — instrumentation scripts to reveal runtime logic.
+
+- **OSINT Recon CLI**  
+  Fast reconnaissance tool for usernames/domains/IPs with enriched scoring (privacy leak detection).
+
+- **DDoS Detection & Mitigation App**  
+  Behavioral traffic baselining + adaptive rate‑limiting for edge services.
+
+- **Malware Forensics Case Studies**  
+  Reverse engineering writeups (ELF/PE samples) and mitigation notes (no payloads shared).
+
+---
+
+## 🧩 CTF & Research Highlights
+- Active on CTF platforms — web, pwn, forensics & reverse categories.  
+- Participated in local bug bounty programs (private & public).  
+- Speaker: Cyber awareness & secure development workshops.  
+- Contributor: Open-source security automation scripts (non‑exploitational).
+
+---
+
+## 🎛 Live Entry Panel (Simulated Terminal)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&width=800&lines=%3E_CONNECTING_TO_TARGET...;%3E_ENUMERATING_SERVICES...;PORTS%20FOUND%3A%20%5B22%2C80%2C443%5D;RECON_COMPLETE%3A%20SCORES%2067%25" alt="terminal-typing" />
+</p>
+
+> (This panel is for effect — no real scanning is performed from this README.)
+
+---
+
+## 🛡 Rules of Engagement (Ethics)
+- ✅ Only test with explicit authorization.  
+- ✅ Share responsibly — disclose vulnerabilities privately to owners.  
+- ✅ Use for learning, defense‑improvement, and research reproducibility.  
+- ❌ Never perform unauthorized access, data theft or damage.
+
+---
+
+## 📡 Contact & Links
+
+<p align="left">
+  <a href="https://github.com/yatish-debug"><img src="https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yatish-bharambe-050197330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yatishbharambe@gfgcoe.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Yatish_Cyber"><img src="https://img.shields.io/badge/X-(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+---
+
+<div align="center">
+  <!-- Live stats (theme matches 'red' vibe) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yatish-debug&show_icons=true&theme=radical&hide_border=true" width="360"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-debug&theme=radical&hide_border=true" width="360"/>
+</div>
+
+---
+
+## ⚠ Final Line
+> <sup style="color:#FF2E2E">This is a red‑team aesthetic portfolio. All offensive skills are described for defensive, research and educational use only. Abuse of tools or knowledge is illegal and unethical.</sup>
+
+---
+
+### ✦ Want it darker / more animated?
+I can add:
+- **Matrix / falling code GIF header** (more aggressive).  
+- **Custom SVG terminal with blinking cursor** and animated entry sequence.  
+- **Section that auto-switches between RED/BLACK themes** using multiple stat images.  
+
+If you want, I’ll produce an even darker variant (include a matrix GIF header and a custom ASCII art badge) and replace / tune any project lines. Ready to proceed — or want any text changed (title, handle, projects)?  
