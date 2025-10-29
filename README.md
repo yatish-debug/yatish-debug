@@ -103,8 +103,6 @@
 </p>
 
 
-> (This is decorative — the README does not scan or connect to anything.)
-
 ---
 
 ## 🛡 Rules of Engagement (Ethics)
