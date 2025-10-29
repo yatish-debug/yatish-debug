@@ -118,7 +118,7 @@
 <p align="center">
   <a href="https://github.com/yatish-debug"><img src="https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=white" alt="gh"/></a>
   <a href="https://www.linkedin.com/in/yatish-bharambe-050197330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="ln"/></a>
-  <a href="mailto:yatishbharambe@gfgcoe.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="mail"/></a>
+  <a href="mailto:yhbharmbe26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="mail"/></a>
   <a href="https://x.com/Yatish_Cyber"><img src="https://img.shields.io/badge/X-(Twitter)-000?style=for-the-badge&logo=x" alt="x"/></a>
 </p>
 
