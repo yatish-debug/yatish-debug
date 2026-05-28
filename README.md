@@ -1,80 +1,260 @@
-<!-- =========================================================================
-     RED TEAM / OFFENSIVE SECURITY — ADVANCED CYBERPUNK PROFILE
-     Optimized for GitHub Dark Mode • High Contrast • Grid Framework
-   ========================================================================= -->
+<!-- ============================================
+
+     RED TEAM / BLACKHAT — SUPER ANIMATED README
+
+     Includes: Matrix Rain GIF, Blinking SVG terminal,
+
+     Cyberpunk ASCII badges, Dynamic typing SVGs
+
+   ============================================ -->
+
+
 
 <p align="center">
-  <img src="./assets/matrix_header.gif" alt="System Core" width="100%" style="max-height:220px; object-fit:cover; border-bottom: 2px solid #FF2E2E; filter: drop-shadow(0px 0px 8px #FF2E2E);"/>
+
+  <img src="./assets/matrix_header.gif" alt="matrix-rain" width="100%" style="max-height:220px; object-fit:cover; filter:contrast(1.1) saturate(1.2)"/>
+
 </p>
+
+
 
 <h1 align="center">
-  <code style="color:#FF2E2E; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 10px rgba(255,46,46,0.6)">
-    [☠️] NODE_INITIALIZED: YATISH BHARAMBE
-  </code>
+
+  <code style="color:#FF2E2E">»» RED NODE: YATISH BHARAMBE</code>
+
 </h1>
 
-<p align="center">
-  <!-- Dynamic typing SVG with higher contrast and sharp styling -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=400&color=FF2E2E&center=true&vCenter=true&width=760&lines=%3E_ Establishing+secure+handshake...;%3E_ Initializing+Red+Team+modules...;%3E_ Scanning+target+subnets...;%3E_ Root+access+granted." alt="Terminal Output" />
-</p>
+
 
 <p align="center">
-  <samp>
-    <b>Red Team Operator</b> | <b>Offensive Security Researcher</b> | <b>Malware Analyst</b>
-    <br>
-    <span style="color: #888;">"Breaking architectures to forge unbreakable defenses."</span>
-  </samp>
+
+  <img src="./assets/cyber_badge.png" alt="badge" width="420"/>
+
 </p>
 
----
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #333;">
-  <tr background="transparent">
-    <td align="center" style="padding: 10px; background-color: #0d1117;">
-      <b style="color: #FF2E2E; letter-spacing: 2px; font-family: monospace;">⚠️ CRITICAL WARNING & RULES OF ENGAGEMENT</b><br>
-      <small style="color: #8b949e; font-family: monospace;">All activities are conducted under strict authorized simulation environments. Unauthorized duplication or utilization of these tools is a violation of international cyber laws.</small>
-    </td>
-  </tr>
-</table>
 
----
+<!-- ASCII cyberpunk badge -->
 
-## 🕶️ Operator Dossier
+<pre align="center" style="color:#FF4D4D; font-size:10px; line-height:10px;">
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><code>$ cat operator.json</code></h3>
-      <ul>
-        <li><b>Identity:</b> Yatish Hemant Bharambe</li>
-        <li><b>Code Handle:</b> <code>yatish-debug</code> / <code>Yatish_Cyber</code></li>
-        <li><b>Specialization:</b> Exploitation, RE, Network Flank Attacks</li>
-        <li><b>Threat Level:</b> Ethical Hacker / Researcher</li>
-        <li><b>Current Status:</b> <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live Status"/></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><code>$ sysctl --info Matrix</code></h3>
-      <!-- Simulated live SVG terminal block inside Markdown -->
-      <svg width="100%" height="140" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100%" height="140" rx="6" fill="#050505" stroke="#FF2E2E" stroke-width="1.5"/>
-        <circle cx="15" cy="18" r="4" fill="#FF5F56"/>
-        <circle cx="30" cy="18" r="4" fill="#FFBD2E"/>
-        <circle cx="45" cy="18" r="4" fill="#27C93F"/>
-        <text x="15" y="45" fill="#FF2E2E" font-family="monospace" font-size="12">[!] MEMORY RE-ALLOCATED</text>
-        <text x="15" y="70" fill="#00FF00" font-family="monospace" font-size="12">&gt; Bypass: Antivirus/EDR [SUCCESS]</text>
-        <text x="15" y="95" fill="#ffffff" font-family="monospace" font-size="12">&gt; Privilege Escalation... NT AUTHORITY\SYSTEM</text>
-        <text x="15" y="120" fill="#888" font-family="monospace" font-size="11">_ listening on [any] 4444 ...</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+ ██████╗  █████╗ ███████╗████████╗██╗██╗     ███████╗
+
+ ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║██║     ██╔════╝
+
+ ██████╔╝███████║███████╗   ██║   ██║██║     █████╗  
+
+ ██╔═══╝ ██╔══██║╚════██║   ██║   ██║██║     ██╔══╝  
+
+ ██║     ██║  ██║███████║   ██║   ██║███████╗███████╗
+
+ ╚═╝     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝╚══════╝╚══════╝
+
+</pre>
+
+
+
+<p align="center">
+
+  <!-- Dynamic typing SVG (live-like headings / project updates) -->
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=350&center=true&vCenter=true&width=760&lines=%3E_CONNECTING...;INITIALIZING_RED_TEAM_MODULES;SCANNING_NETWORKS;LOADING_PAYLOADS" alt="typing" />
+
+</p>
+
+
+
+<p align="center">
+
+  <strong style="color:#FF4D4D">Red Team Operator | Offensive Security Researcher | Malware Analyst</strong><br>
+
+  Exploring vulnerabilities ethically to build ironclad defenses.
+
+</p>
+
+
 
 ---
 
-## 🩸 Weapons & Arsenal
 
-```yaml
-Red_Team:    [ "Infra Infiltration", "Weaponization", "Lateral Movement" ]
-Payloads:    [ "Custom Shellcode", "Process Injection", "DLL Hijacking" ]
-Blue_Team:   [ "EDR Evasion Analysis", "Forensics", "Log Correlation" ]
+
+<div align="center">
+
+**⚠️ AUTHORIZED USE ONLY — All activities listed are performed with consent or in controlled/simulated environments. Misuse is unlawful.**
+
+</div>
+
+
+
+---
+
+
+
+## 🕶️ Operator Snapshot
+
+- **Name:** Yatish Hemant Bharambe  
+
+- **Handle:** `yatish-debug` / `Yatish_Cyber`  
+
+- **Role:** Red Team / Offensive Security | Malware Analysis | OSINT | CTF  
+
+- **Status:** Live — Offensive simulations, blue team mitigations & forensic research
+
+
+
+---
+
+
+
+## 🩸 Red Arsenal (with Cyberpunk Badges)
+
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Focus-RED_TEAM-ff2e2e?style=for-the-badge&logo=hackthebox" alt="red team"/>
+
+<img src="https://img.shields.io/badge/Tools-Nmap%20|%20Burp%20|%20Metasploit-370000?style=for-the-badge" alt="tools"/>
+
+<img src="https://img.shields.io/badge/Programming-Python%20|%20C%2B%2B%20|%20Bash-8b0000?style=for-the-badge" alt="lang"/>
+
+<img src="https://img.shields.io/badge/RE-Ghidra%20|%20x64dbg-2b2b2b?style=for-the-badge" alt="re"/>
+
+<img src="https://img.shields.io/badge/OS-Kali%20|%20ParrotOS%20|%20Ubuntu-550000?style=for-the-badge" alt="os"/>
+
+</p>
+
+
+
+<!-- ASCII mini badges -->
+
+<pre style="color:#FF6B6B; font-size:10px;">[⟡ RED TEAM]   [⟡ OFFENSE]   [⟡ DEFENSE]   [⟡ FORENSICS]</pre>
+
+
+
+---
+
+
+
+## 🔥 Mission Modules (Projects & Research)
+
+
+
+<!-- Dynamic typing for projects (smaller) -->
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&width=820&lines=Yshield%20-%20Personal%20Red/Blue%20Firewall;Blockchain%20Honeypot%20Node;Frida%20Hooking%20Toolkit;OSINT%20Recon%20CLI;Malware%20Forensics%20Writeups" alt="projects-typing" />
+
+</p>
+
+
+
+- **Yshield — Personal Red/Blue Firewall**: Layered deception, geo‑block, forensic logging, UI dashboard.  
+
+- **Blockchain Honeypot Node (Research)**: Capture attacker TTPs and IOCs.  
+
+- **Frida Hooking Toolkit**: Runtime instrumentation for Android apps.  
+
+- **OSINT Recon CLI**: Fast, scored recon for usernames/domains/IPs.  
+
+- **DDoS Detection App**: Behavioral baselining + adaptive mitigation.  
+
+- **Malware Forensics Case Studies**: Reverse engineering writeups (ELF/PE analysis, IOCs).
+
+
+
+---
+
+
+
+## 🖤 Hacker Stats — Live Panels
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yatish-debug&show_icons=true&theme=radical&hide_border=true" width="360" alt="github-stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-debug&theme=radical&hide_border=true" width="360" alt="streak"/>
+
+</div>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatish-debug&theme=radical" width="800" alt="activity-graph"/>
+
+</p>
+
+
+
+---
+
+
+
+## 🎛 Live Entry Panel — Blinking Terminal (INLINE SVG)
+
+<!-- Inline animated SVG terminal — GitHub supports simple SMIL animations like <animate> -->
+
+<p align="center">
+
+  <img src="./assets/terminal_live.gif" alt="terminal-live" width="760"/>
+
+</p>
+
+
+
+
+
+---
+
+
+
+## 🛡 Rules of Engagement (Ethics)
+
+- ✅ Only test on systems with explicit authorization.  
+
+- ✅ Responsible disclosure to owners — privately.  
+
+- ✅ Use knowledge to defend & educate.  
+
+- ❌ Illegal activity is strictly prohibited.
+
+
+
+---
+
+
+
+## 📡 Contact & Links
+
+
+
+<p align="center">
+
+  <a href="https://github.com/yatish-debug"><img src="https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=white" alt="gh"/></a>
+
+  <a href="https://www.linkedin.com/in/yatish-bharambe-050197330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="ln"/></a>
+
+  <a href="mailto:yhbharmbe26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="mail"/></a>
+
+  <a href="https://x.com/Yatish_Cyber"><img src="https://img.shields.io/badge/X-(Twitter)-000?style=for-the-badge&logo=x" alt="x"/></a>
+
+</p>
+
+
+
+---
+
+
+
+## ⚠ Final Note
+
+> <sup style="color:#FF2E2E">This profile uses red‑team aesthetics for portfolio purposes only. All offensive techniques referenced are for research, defense and education. Misuse is illegal and unethical.</sup>
+
+
+
+---
+
